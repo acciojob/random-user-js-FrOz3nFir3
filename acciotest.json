@@ -1,4 +1,4 @@
 {
-    "random-user-js",
+    "testRepo": "random-user-js",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
