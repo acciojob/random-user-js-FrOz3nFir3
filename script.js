@@ -2,9 +2,9 @@ let randomName = document.querySelector("#name");
 let randomImg = document.querySelector("img");
 let details = document.querySelector("p");
 
-let age = document.querySelector('[data-atr="age"]');
-let email = document.querySelector('[data-atr="email"]');
-let phone = document.querySelector('[data-atr="phone"]');
+let age = document.querySelector('[data-attr="age"]');
+let email = document.querySelector('[data-attr="email"]');
+let phone = document.querySelector('[data-attr="phone"]');
 let anotherUser = document.querySelector("#getUser");
 
 async function getRandomUser() {
